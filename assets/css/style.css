@@ -6,7 +6,7 @@ html, body {
 }
 body {
   display: flex;
-  font-family: tahoma, arial;
+  font-family: 'Lato', sans-serif;
   color: #FFFFFF;
   background: #293042;
   align-items: center;
@@ -15,4 +15,20 @@ body {
   font-size: 12px;
 }
 
+code, kbd, pre, samp {
+  font-family: 'Lato', sans-serif; 
+}
+
+.greenery-text { color: #88B04B!important; }
+.greenery-background { background-color: #88B04B; }
+
+.bold { font-weight: 700!important; }
+
 .react-ui-kit { width: 100%; }
+
+.react-ui-kit .header {
+  height: 120px;
+}
+.react-ui-kit .header .text {
+  color: #293042;
+}
