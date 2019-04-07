@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Newsletter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-356.000000, -920.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="social" transform="translate(356.000000, 473.000000)">
+                <g id="instagram" transform="translate(0.000000, 447.000000)">
+                    <path d="M16.25,0 C7.2875,0 0,7.2875 0,16.25 L0,38.75 C0,47.7125 7.2875,55 16.25,55 L38.75,55 C47.7125,55 55,47.7125 55,38.75 L55,16.25 C55,7.2875 47.7125,0 38.75,0 L16.25,0 Z M42.5,10 C43.875,10 45,11.125 45,12.5 C45,13.875 43.875,15 42.5,15 C41.125,15 40,13.875 40,12.5 C40,11.125 41.125,10 42.5,10 Z M27.5,13.75 C35.0875,13.75 41.25,19.9125 41.25,27.5 C41.25,35.0875 35.0875,41.25 27.5,41.25 C19.9125,41.25 13.75,35.0875 13.75,27.5 C13.75,19.9125 19.9125,13.75 27.5,13.75 Z M27.5,16.25 C21.3,16.25 16.25,21.3 16.25,27.5 C16.25,33.7 21.3,38.75 27.5,38.75 C33.7,38.75 38.75,33.7 38.75,27.5 C38.75,21.3 33.7,16.25 27.5,16.25 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
