@@ -5,9 +5,9 @@ html, body {
   width: 100%;
   display: flex;
   min-height: 100vh;
+  font-family: 'Rubik', Tahoma;
 }
 body {
-  font-family: 'Rubik', sans-serif;
   color: #FFFFFF;
   background: #88B04B;
   font-size: 12px;
@@ -68,7 +68,6 @@ div {
 }
 
 h1 {
-  font-family: 'Rubik';
   font-weight: bold;
   font-size: 48px;
   line-height: 56px;
@@ -76,7 +75,6 @@ h1 {
 }
 
 h2 {
-  font-family: 'Rubik';
   font-weight: bold;
   font-size: 32px;
   line-height: 32px;
@@ -84,7 +82,6 @@ h2 {
 }
 
 h3 {
-  font-family: 'Rubik';
   font-weight: 400;
   font-size: 16px;
   line-height: 36px;
@@ -193,7 +190,6 @@ a:hover {
 }
 
 input::placeholder {
-  /* font-family: Rubik; */
   font-size: 16px;
   color: #293042;
 }
