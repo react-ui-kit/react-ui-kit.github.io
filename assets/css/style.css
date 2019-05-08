@@ -146,6 +146,10 @@ a:hover {
   justify-content: flex-end;
 }
 
+.footer span {
+  margin-right: 6px;
+}
+
 .bg-accent {
   background-color: #88B04B;
 }
