@@ -1,2 +1,21 @@
+name: React-UI-Kit.com
+
+description: React-UI-Kit.com - Website
+
+url: https://react-ui-kit.com
+
 sass:
-  style: compact # possible values: nested expanded compact compressed
+  style: :compressed # possible values: nested expanded compact compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+  # Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

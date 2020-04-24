@@ -1,7 +1,10 @@
-.DS_STORE
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
 node_modules
-yarn.lock
-*.sublime-project
-*.sublime-workspace
-.idea
-dist/
+package.json
